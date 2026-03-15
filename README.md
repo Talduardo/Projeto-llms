@@ -55,6 +55,8 @@ Este projeto aplica **Modelos de Linguagem (LLMs)** para otimizar processos de s
    python llm_openai.py
    ```
 
+---
+
 ## 🛠️ Tecnologias Utilizadas:
 - Python
 
@@ -71,6 +73,8 @@ Este projeto aplica **Modelos de Linguagem (LLMs)** para otimizar processos de s
 
 - Relatórios automatizados para apoiar decisões financeiras.
 
+---
+
 ## 📌 Roadmap
 - [ ] Expandir testes para outros tipos de documentos financeiros.
 
@@ -78,11 +82,15 @@ Este projeto aplica **Modelos de Linguagem (LLMs)** para otimizar processos de s
 
 - [ ] Criar interface web para uso simplificado.
 
+---
+
 ## 👨‍💻 Autor
 Eduardo Holanda  
    `Cientista de Dados` 
    `Desenvolvedor Web`
    `Desenvolvedor Full-Stack`
+
+---
 
 ### Alguma dúvida? Clique no ícone de sua preferência e entre em contato comigo:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-holanda-jacinto-39b822321/)
