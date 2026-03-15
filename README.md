@@ -31,7 +31,7 @@ Este projeto aplica **Modelos de Linguagem (LLMs)** para otimizar processos de s
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Como Executar:
 
 1. Clone este repositório:
    ```
@@ -75,7 +75,7 @@ Este projeto aplica **Modelos de Linguagem (LLMs)** para otimizar processos de s
 
 ---
 
-## 📌 Roadmap
+## 📌 Roadmap:
 - [ ] Expandir testes para outros tipos de documentos financeiros.
 
 - [ ] Integrar com ferramentas de BI (Power BI, Tableau).
